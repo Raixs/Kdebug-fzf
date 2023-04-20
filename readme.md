@@ -18,7 +18,7 @@ Kubefzf-Debugger es una herramienta interactiva que permite seleccionar y depura
 
 3.  Haga que el script sea ejecutable:
 
-`chmod +x kdebug-fzf.sh
+`chmod +x kdebug-fzf.sh`
 
 4.  Opcionalmente, puede agregar el directorio del script a su variable de entorno `PATH` para ejecutarlo desde cualquier lugar.
 
